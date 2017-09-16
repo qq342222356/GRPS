@@ -1,0 +1,168 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 401517 */
+  src: url('https://at.alicdn.com/t/font_401517_b5l18hxoztvb1emi.eot');
+  src: url('https://at.alicdn.com/t/font_401517_b5l18hxoztvb1emi.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_401517_b5l18hxoztvb1emi.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_401517_b5l18hxoztvb1emi.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_401517_b5l18hxoztvb1emi.svg#iconfont') format('svg');
+}
+header{
+	width: 100%;
+	height: .45rem;
+	background-color: white;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+.logo{
+	float: left;
+    width: .29rem;
+    height: .45rem;
+    margin: 0 .15rem;
+    background-color: white;
+    background-image: url('../img/bbac8339c1b6b6bf4f04435fb677552e.jpg');
+	background-size: contain;
+}
+.sousuo{
+	width: 2.29rem;
+	height: .4rem;
+	background-color: white;
+	float: left;
+	/* margin-top: .08rem; */
+	margin-bottom: .08rem;
+	padding: .075rem .075rem 0.075rem 0;
+}
+.wenben{
+	width: 100%;
+	height: 100%;
+	float: left;
+	background-color: #fafafa;
+}
+.sousuo-ic{
+	width: .27rem;
+	height: .27rem;
+	float: left;
+	margin-top: .09rem;
+}
+.sousuo-ic a{
+	font-size: .24rem;
+	margin-top: .015rem;
+	text-align: center;
+	float: left;
+}
+.xiaoxi{
+	width: .49rem;
+	height: .28rem;
+	margin-top: .075rem;
+	background-color: white;
+	float: right;
+}
+.xiaoxi a{
+	display: block;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	line-height: .28rem;
+	font-size: 20px;
+}
+/* 本周开始 */
+.zhongjian{
+	/* background-color: #f3f3f3; */
+	position: absolute;
+	top: .45rem;
+	left: 0	;
+	right: 0;
+	bottom: .49rem;
+	margin: auto;
+}
+.benzhou{
+	width: 100%;
+	height: .36rem;
+	/* background-color: blue; */
+	padding: .1rem;
+}
+span{
+	height: 100%;
+	background-color: black;
+}
+.kuang{
+	width:100%;
+	/* background-color: orange; */
+}
+.xiaokuang{
+	width: .93rem;
+	height: 1.18rem;
+	/* background-color: blue; */
+	float: left;
+	border-top: 0.005rem solid #f4f4f4;
+	border-right: 0.005rem solid #f4f4f4;
+	
+}
+.picture{
+	width: .94em;
+	height: .94em;
+	padding: 0 .141015rem;
+	float: left;
+	/* background-color: black; */
+	/* background-image: url('../img/bao.webp'); */
+	background-size: 100%
+
+}
+.fenleizi{
+	width: 100%;
+	height: .24rem;
+	/* background-color: gold; */
+	float: left;
+	font-size: .16rem;
+	text-align: center;
+	line-height: .24rem;
+}
+.xiaochuyou{
+	border-right: 0;
+}
+/* 底部开始 */
+footer{
+	width: 100%;
+	height: .44rem;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	/* background-color: #333; */
+	border-top: .005rem solid #444;
+}
+footer a{
+	color: #333;
+}
+.dibufangkuai{
+	width: 25%;
+	height: 100%;
+	background-color: #fafafa;
+	float: left;
+}
+.tubiao{
+	width: .19em;
+	height: .19em;
+	/* background-color: yellowgreen; */
+	margin: .064rem .37375rem .04rem .37375rem;
+}
+div.ic-xi{
+	width: 100%;
+	height: .12rem;
+	background-color: #fafafa;
+	font-size: .12rem;
+	text-align: center;
+}
+.tubiao a{
+	/* width: .1rem; */
+	height: .1rem;
+	font-size: .18rem;
+	margin: 0;
+	display: block;
+	color: black;
+}
+.icon a{
+	color: #f69;
+}
+.yanshe{
+	color: #f69;
+}
